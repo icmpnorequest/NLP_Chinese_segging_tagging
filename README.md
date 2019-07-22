@@ -1,9 +1,15 @@
 # NLP_Chinese_segging_tagging
 
+
+
 ## 1. Project Description
+
 The project aims to build a Chinese segging and POS tagging tool with HMM + Viterbi.
 
+
+
 ## 2. Code Description
+
 ### 2.1 Corpus
 
 /data
@@ -29,7 +35,15 @@ The project aims to build a Chinese segging and POS tagging tool with HMM + Vite
 - tag_test.py: Tagging demo
 - seg_tag_test.py: Segging + Tagging demo
 
-## 3. License
+
+
+## 3. Result
+
+[!alt text](https://github.com/icmpnorequest/NLP_Chinese_segging_tagging/blob/master/image/test_res.png)
+
+
+
+## 4. License
 
 MIT License
 
@@ -52,3 +66,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
