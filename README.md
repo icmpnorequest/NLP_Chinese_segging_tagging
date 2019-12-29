@@ -35,6 +35,12 @@ The project aims to build a Chinese segging and POS tagging tool with HMM + Vite
 - tag_test.py: Tagging demo
 - seg_tag_test.py: Segging + Tagging demo
 
+### 2.4 Model
+
+/model
+
+- It is a directory to save several trained CRF models.
+
 
 
 ## 3. Result
