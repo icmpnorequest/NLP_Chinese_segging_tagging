@@ -39,8 +39,7 @@ The project aims to build a Chinese segging and POS tagging tool with HMM + Vite
 
 ## 3. Result
 
-[!alt text](https://github.com/icmpnorequest/NLP_Chinese_segging_tagging/blob/master/image/test_res.png)
-
+![Image text](https://github.com/icmpnorequest/NLP_Chinese_segging_tagging/blob/master/image/test_res.png)
 
 
 ## 4. License
